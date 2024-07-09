@@ -11,7 +11,7 @@ Al instalar Termux en tu móvil, dispondrás de un emulador de terminal para And
 - git clone https://github.com/Juan666Hack/Requerimientos.BSZ
 - cd Incognito
 - chmod +x *
-- bash incognito.sh
+- bash BSZ.sh
 
 # Opciones
 - [1] Instalar todos los paquetes
