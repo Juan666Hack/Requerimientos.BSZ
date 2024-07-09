@@ -19,4 +19,4 @@ Al instalar Termux en tu móvil, dispondrás de un emulador de terminal para And
 - [3] Instalar el efecto matrix
 - [4] Salir
 
-Hecho por monkey-hk4 :?  /Juan666Hack
+Hecho por /Juan666Hack
